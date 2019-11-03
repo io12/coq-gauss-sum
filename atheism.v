@@ -1,11 +1,11 @@
 (* Proof that a god does not exist *)
 
-(* The god proposition (e.g. "God exists") *)
+(* The god proposition (i.e. "God exists") *)
 Inductive God : Prop :=
   (* God can only be constructed by another god *)
   | creator: God -> God.
 
-(* Proof of atheism (e.g. "God does not exist") *)
+(* Proof of atheism (i.e. "God does not exist") *)
 Theorem atheism :
   ~God.
 Proof.
