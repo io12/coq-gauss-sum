@@ -2,10 +2,10 @@
 
 My proofs for the Coq proof assistant
 
-| File                                | Description                                                                                        |
-| ----------------------------------- | -------------------------------------------------------------------------------------------------- |
-| [sum.v](sum.v)                      | Proof that 1 + 2 + ... + n = n \* (n + 1) / 2                                                      |
-| [sqrt_2_irrat.v](sqrt_2_irrat.v)    | Proof that the square root of 2 is irrational                                                      |
-| [curry.v](curry.v)                  | Proof that for every two-parameter uncurried function, there exists an equivalent curried function |
-| [atheism.v](atheism.v)              | Proof that a god does not exist                                                                    |
-| [compose_assoc.v](compose_asssoc.v) | Proof that function composition is associative                                                     |
+| File                               | Description                                                                                        |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [sum.v](sum.v)                     | Proof that 1 + 2 + ... + n = n \* (n + 1) / 2                                                      |
+| [sqrt_2_irrat.v](sqrt_2_irrat.v)   | Proof that the square root of 2 is irrational                                                      |
+| [curry.v](curry.v)                 | Proof that for every two-parameter uncurried function, there exists an equivalent curried function |
+| [atheism.v](atheism.v)             | Proof that a god does not exist                                                                    |
+| [compose_assoc.v](compose_assoc.v) | Proof that function composition is associative                                                     |
